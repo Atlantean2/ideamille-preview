@@ -1,2 +1,3 @@
 # ideamille-preview
-Hidden noindex preview of the IdeaMille rebuild (not the live site)
+
+Hidden noindex preview of the IdeaMille rebuild, not the live ideamille.com.

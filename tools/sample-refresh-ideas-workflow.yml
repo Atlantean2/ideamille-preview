@@ -1,0 +1,19 @@
+# SAMPLE ONLY - not active. To enable later (with Michael's OK), copy to .github/workflows/refresh-ideas.yml
+# and add a repository secret IDEAS_SHEET_CSV_URL (the Sheet's "Publish to web" CSV link).
+name: Refresh ideas.json from Sheet
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 11 * * 1'   # Mondays 07:00 America/New_York (EDT)
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/refresh_ideas.py "${{ secrets.IDEAS_SHEET_CSV_URL }}"
+      - run: |
+          git config user.name "ideamille-bot"; git config user.email "ideas@techvestventures.com"
+          git add data/ideas.json
+          git diff --cached --quiet || git commit -m "Refresh ideas.json from Sheet" && git push
