@@ -1,0 +1,24 @@
+# SAMPLE ONLY - not active (lives in tools/, not .github/workflows/). To enable later, with Michael's OK:
+#  1. copy to .github/workflows/refresh-top-ideas.yml
+#  2. publish the "IdeaMille Top 100 Site Feed" CSV to a stable https link and save that link as the
+#     repository secret TOP_IDEAS_FEED_CSV_URL
+# The feed is overwritten Fridays about 6 PM ET; this runs Saturdays 08:00 America/New_York (12:00 UTC in EDT).
+# Manual equivalent on the box (one command):  python3 tools/refresh_top_ideas.py
+# The script stops with exit code 2 and writes nothing if the feed's column header or rank sequence changes.
+name: Refresh Top 100 pages from the weekly site feed
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 12 * * 6'
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/refresh_top_ideas.py "${{ secrets.TOP_IDEAS_FEED_CSV_URL }}"
+      - run: |
+          git config user.name "ideamille-bot"; git config user.email "ideas@techvestventures.com"
+          git add data/top-ideas.json html/top-ideas.html html/ideabase.html index.html sitemap.xml
+          git diff --cached --quiet || (git commit -m "Refresh Top 100 from weekly site feed" && git push)

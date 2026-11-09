@@ -1,0 +1,1577 @@
+{
+ "title": "IdeaMille Top 100",
+ "ranked_date": "2026-11-01",
+ "ranked_label": "Ranked 1 November 2026",
+ "count": 100,
+ "fields": [
+  "rank",
+  "name",
+  "sector",
+  "region",
+  "stage",
+  "description",
+  "url",
+  "origin",
+  "origin_label",
+  "sector_groups",
+  "region_group"
+ ],
+ "ideas": [
+  {
+   "rank": 1,
+   "name": "Bryson",
+   "sector": "Consumer & industrial cleaning products",
+   "region": "North Carolina, US",
+   "stage": "Operating company",
+   "description": "Made-in-USA cleaning and care product brands, including CitruSafe and ElimiShield.",
+   "url": "https://brysonusa.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Robotics, hardware & industry",
+    "Consumer, food & lifestyle"
+   ],
+   "region_group": "North Carolina"
+  },
+  {
+   "rank": 2,
+   "name": "Intuality",
+   "sector": "AI / predictive analytics",
+   "region": "North Carolina, US",
+   "stage": "Early commercial",
+   "description": "IntualityAI: AI-driven predictive analytics venture.",
+   "url": "https://intualityai.com/",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data"
+   ],
+   "region_group": "North Carolina"
+  },
+  {
+   "rank": 3,
+   "name": "Alumiworks",
+   "sector": "Manufacturing & construction",
+   "region": "Randleman, NC",
+   "stage": "Operating company",
+   "description": "Full-service aluminum manufacturing and construction solutions company based in Randleman, NC.",
+   "url": "https://alumiworks.net",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Robotics, hardware & industry",
+    "Real estate & construction"
+   ],
+   "region_group": "North Carolina"
+  },
+  {
+   "rank": 4,
+   "name": "CognomiQ",
+   "sector": "Healthtech / semantic AI data",
+   "region": "Dallas-Austin, TX",
+   "stage": "Seed",
+   "description": "Semantic data management platform for smarter healthcare decisions.",
+   "url": "https://cognomiq.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data",
+    "Health & life sciences"
+   ],
+   "region_group": "Texas"
+  },
+  {
+   "rank": 5,
+   "name": "Nobody Studios",
+   "sector": "AI venture studio",
+   "region": "California, US",
+   "stage": "Studio / multi-venture",
+   "description": "AI-native venture studio building a portfolio of new companies.",
+   "url": "https://nobodystudios.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data",
+    "Ventures & innovation"
+   ],
+   "region_group": "California"
+  },
+  {
+   "rank": 6,
+   "name": "StemXbank",
+   "sector": "Biotech / personal stem cell banking",
+   "region": "North Carolina, US",
+   "stage": "Early",
+   "description": "Personal cellular storage for future regenerative medicine therapies.",
+   "url": "https://www.stemxbank.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Health & life sciences"
+   ],
+   "region_group": "North Carolina"
+  },
+  {
+   "rank": 7,
+   "name": "Hint",
+   "sector": "PropTech / AI home management",
+   "region": "Charlotte, NC",
+   "stage": "Seed",
+   "description": "AI home-management app co-founded by Martha Stewart that tracks a home's systems and upkeep. $10M seed; launched nationally on iOS in July 2026.",
+   "url": "https://hinthome.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data",
+    "Real estate & construction"
+   ],
+   "region_group": "North Carolina"
+  },
+  {
+   "rank": 8,
+   "name": "Lucid Bots",
+   "sector": "Robotics / cleaning drones",
+   "region": "Charlotte, NC",
+   "stage": "Series B",
+   "description": "Drones and robots for commercial window, facade and pressure washing. $20M Series B in Mar 2026; $34M raised in total.",
+   "url": "https://www.lucidbots.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Robotics, hardware & industry"
+   ],
+   "region_group": "North Carolina"
+  },
+  {
+   "rank": 9,
+   "name": "ReFiBuy",
+   "sector": "AI ecommerce / agentic commerce optimization",
+   "region": "Raleigh, NC",
+   "stage": "Seed",
+   "description": "Helps brands get their products found and recommended by AI shopping agents. Founded 2025 by ChannelAdvisor's Scot Wingo; $13.6M seed in 2026.",
+   "url": "https://refibuy.ai",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data",
+    "Commerce & supply chain"
+   ],
+   "region_group": "North Carolina"
+  },
+  {
+   "rank": 10,
+   "name": "Chronicle",
+   "sector": "Entertainment-Tech / AI animation",
+   "region": "Los Angeles, CA",
+   "stage": "Early",
+   "description": "Studio that uses AI analytics to find creator-led animation IP, test it on social, and grow it into franchises. $11.6M seed in 2025.",
+   "url": "https://terminal.chronicle.studio/",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data",
+    "Media, creators & entertainment"
+   ],
+   "region_group": "California"
+  },
+  {
+   "rank": 11,
+   "name": "Aina",
+   "sector": "AI hardware interface",
+   "region": "Bengaluru / San Francisco",
+   "stage": "Seed",
+   "description": "Hardware for controlling AI agents beyond touchscreens and keyboards. Founded by an ex-Ultrahuman hardware VP; $5.5M seed in Jul 2026.",
+   "url": "https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data",
+    "Robotics, hardware & industry"
+   ],
+   "region_group": "Asia"
+  },
+  {
+   "rank": 12,
+   "name": "6AM City",
+   "sector": "Local news / newsletters",
+   "region": "Greenville, SC",
+   "stage": "Growth",
+   "description": "Local daily newsletters for U.S. mid-sized cities. $16M Series A led by Tegna; now using AI in some markets.",
+   "url": "https://6amcity.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Media, creators & entertainment"
+   ],
+   "region_group": "South Carolina"
+  },
+  {
+   "rank": 13,
+   "name": "Grocalo",
+   "sector": "AI creator growth tools",
+   "region": "Los Angeles, CA",
+   "stage": "Early (YC S26)",
+   "description": "AI that runs content distribution, engagement and growth for creators across platforms. Y Combinator company.",
+   "url": "https://grocalo.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data",
+    "Media, creators & entertainment"
+   ],
+   "region_group": "California"
+  },
+  {
+   "rank": 14,
+   "name": "Path Intelligence",
+   "sector": "PropTech / AI virtual home tours",
+   "region": "Charlotte, NC",
+   "stage": "Seed",
+   "description": "AI virtual home tours that answer buyer questions around the clock in 40+ languages. NC IDEA grant winner with a $2.3M seed in 2026.",
+   "url": "https://trypath.io",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data",
+    "Real estate & construction"
+   ],
+   "region_group": "North Carolina"
+  },
+  {
+   "rank": 15,
+   "name": "Browserbase",
+   "sector": "DevTools / headless browser infra",
+   "region": "San Francisco, CA",
+   "stage": "Seed / early growth",
+   "description": "Cloud headless browsers that let AI agents use the web at scale. Widely used infrastructure for agent builders.",
+   "url": "https://www.browserbase.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data"
+   ],
+   "region_group": "California"
+  },
+  {
+   "rank": 16,
+   "name": "EtherealX (now The Guild)",
+   "sector": "Space / reusable rockets",
+   "region": "Bengaluru, India",
+   "stage": "Series A",
+   "description": "Indian startup building a fully reusable rocket, now renamed The Guild. $20.5M Series A in Jan 2026; demo flight targeted for 2027.",
+   "url": "https://techcrunch.com/2026/01/15/etherealx-jumps-5-5x-in-valuation-on-spacex-style-reuse-bet-from-india/",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Robotics, hardware & industry"
+   ],
+   "region_group": "Asia"
+  },
+  {
+   "rank": 17,
+   "name": "Kanga Coolers",
+   "sector": "Consumer product / iceless cooler",
+   "region": "Clemson, SC",
+   "stage": "Operating company",
+   "description": "Iceless sleeve that keeps a case of drinks cold for hours. Shark Tank deal with Mark Cuban; $10M+ in annual revenue, per press.",
+   "url": "https://kangacoolers.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Consumer, food & lifestyle"
+   ],
+   "region_group": "South Carolina"
+  },
+  {
+   "rank": 18,
+   "name": "Bindwell",
+   "sector": "AgTech / AI pesticide discovery",
+   "region": "San Carlos, CA",
+   "stage": "Seed",
+   "description": "AI models that discover safer, targeted pesticides. Founded by two teenagers; $6M seed co-led by General Catalyst, with Paul Graham (Nov 2025).",
+   "url": "https://www.bindwell.ai",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data"
+   ],
+   "region_group": "California"
+  },
+  {
+   "rank": 19,
+   "name": "Storybutton",
+   "sector": "Kids audio / screen-free player",
+   "region": "Greenville, SC",
+   "stage": "Early",
+   "description": "Screen-free audio player for kids with curated podcasts and stories. SC Launch-backed; raised a seed round.",
+   "url": "https://storybutton.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Consumer, food & lifestyle",
+    "Media, creators & entertainment"
+   ],
+   "region_group": "South Carolina"
+  },
+  {
+   "rank": 20,
+   "name": "Captain Experiences",
+   "sector": "Outdoor guide marketplace",
+   "region": "United States",
+   "stage": "Growth",
+   "description": "Marketplace for booking vetted fishing and hunting guides across the U.S. $5.5M raised.",
+   "url": "https://captainexperiences.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Consumer, food & lifestyle",
+    "Commerce & supply chain"
+   ],
+   "region_group": "Other United States"
+  },
+  {
+   "rank": 21,
+   "name": "Amissa",
+   "sector": "Women's health / menopause clinical data",
+   "region": "Charlotte, NC",
+   "stage": "Seed",
+   "description": "AI platform turning menopause symptoms and wearable data into clinical notes for providers. NIH-backed; launched nationally in Jan 2026.",
+   "url": "https://amissa.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data",
+    "Health & life sciences"
+   ],
+   "region_group": "North Carolina"
+  },
+  {
+   "rank": 22,
+   "name": "Iconic",
+   "sector": "Fintech / SMB M&A marketplace",
+   "region": "Los Angeles, CA",
+   "stage": "Early growth",
+   "description": "AI-assisted M&A advisory helping small-business owners sell, aimed at the baby-boomer business handoff. $6M raised in May 2026.",
+   "url": "https://iconic.co",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Fintech",
+    "Commerce & supply chain"
+   ],
+   "region_group": "California"
+  },
+  {
+   "rank": 23,
+   "name": "Opine",
+   "sector": "AI B2B sales workspace",
+   "region": "Durham, NC",
+   "stage": "Seed",
+   "description": "AI workspace that gives technical B2B sales teams one view of every deal. $5M seed in Dec 2025; customers include Docker and Tailscale.",
+   "url": "https://tryopine.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data"
+   ],
+   "region_group": "North Carolina"
+  },
+  {
+   "rank": 24,
+   "name": "Botsi",
+   "sector": "AI personalized app subscription pricing",
+   "region": "New York, NY (founded in Charlotte, NC)",
+   "stage": "Seed",
+   "description": "AI that personalizes subscription prices, trials and paywalls for each app user. Charlotte-founded, now NY-based; $1.5M pre-seed in Sep 2026.",
+   "url": "https://botsi.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data"
+   ],
+   "region_group": "New York"
+  },
+  {
+   "rank": 25,
+   "name": "Kartel.ai",
+   "sector": "Entertainment-Tech / AI creative marketplace",
+   "region": "Beverly Hills / Santa Monica, CA",
+   "stage": "Seed",
+   "description": "AI creative studio turning behavioral data into strategy and ad creative. $2M seed in 2025; ex-NBC exec Kevin Reilly named CEO.",
+   "url": "https://kartel.ai",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data",
+    "Media, creators & entertainment",
+    "Commerce & supply chain"
+   ],
+   "region_group": "California"
+  },
+  {
+   "rank": 26,
+   "name": "Clouted",
+   "sector": "Entertainment marketing / AI distribution",
+   "region": "Los Angeles, CA",
+   "stage": "Seed",
+   "description": "AI engine that cuts long-form content into short clips and routes them across TikTok, Instagram, YouTube and X. $7M raise (2026).",
+   "url": "https://clouted.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data",
+    "Media, creators & entertainment"
+   ],
+   "region_group": "California"
+  },
+  {
+   "rank": 27,
+   "name": "Troodie",
+   "sector": "Consumer social / restaurant discovery",
+   "region": "Charlotte, NC",
+   "stage": "Seed",
+   "description": "Social app that turns online food finds into saved restaurant lists, with creator payouts and visit tracking. Launched in Charlotte in 2025.",
+   "url": "https://www.troodieapp.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Consumer, food & lifestyle"
+   ],
+   "region_group": "North Carolina"
+  },
+  {
+   "rank": 28,
+   "name": "Quilter",
+   "sector": "Deeptech AI / electronics design",
+   "region": "Los Angeles, CA",
+   "stage": "Series B",
+   "description": "Physics-driven AI that lays out complete circuit boards automatically. $25M Series B led by Index Ventures (Oct 2025).",
+   "url": "https://www.quilter.ai",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data"
+   ],
+   "region_group": "California"
+  },
+  {
+   "rank": 29,
+   "name": "Sereact",
+   "sector": "Warehouse Robotics / Physical AI",
+   "region": "Stuttgart, DE",
+   "stage": "Series B",
+   "description": "Vision-language AI 'brain' that lets warehouse robots pick and pack any item. About $116M raised, including a 2026 Series B.",
+   "url": "https://sereact.ai",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data",
+    "Robotics, hardware & industry"
+   ],
+   "region_group": "Europe"
+  },
+  {
+   "rank": 30,
+   "name": "BlakNexis (formerly EchoHer)",
+   "sector": "Healthtech / AI maternal health insights",
+   "region": "Charlotte, NC",
+   "stage": "Seed",
+   "description": "AI narrative health-data platform built on the stories of women of color, starting with maternal care. Formerly EchoHer; $329K raised in 2025.",
+   "url": "https://blaknexis.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data",
+    "Health & life sciences"
+   ],
+   "region_group": "North Carolina"
+  },
+  {
+   "rank": 31,
+   "name": "PeakMetrics",
+   "sector": "Enterprise AI / narrative intelligence",
+   "region": "Los Angeles, CA",
+   "stage": "Series A",
+   "description": "AI that tracks how online narratives spread and flags coordinated campaigns for brands and agencies. $6M Series A (Apr 2026).",
+   "url": "https://www.peakmetrics.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data"
+   ],
+   "region_group": "California"
+  },
+  {
+   "rank": 32,
+   "name": "Chipp",
+   "sector": "AI agent / no-code autonomous software",
+   "region": "Greenville, SC",
+   "stage": "Seed",
+   "description": "No-code platform to build and deploy branded AI agents trained on a company's own knowledge. $2M seed in 2025; SCRA grant in 2026.",
+   "url": "https://chipp.ai",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data"
+   ],
+   "region_group": "South Carolina"
+  },
+  {
+   "rank": 33,
+   "name": "Verisoul",
+   "sector": "AI / fraud and identity",
+   "region": "Austin, TX",
+   "stage": "Series A",
+   "description": "Detects fake accounts, bots and AI-driven fraud from behavioral and device signals. $8.8M Series A led by High Alpha (Dec 2025).",
+   "url": "https://www.verisoul.ai",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data"
+   ],
+   "region_group": "Texas"
+  },
+  {
+   "rank": 34,
+   "name": "Evalify",
+   "sector": "LegalTech / AI IP (patent FTO)",
+   "region": "California, US",
+   "stage": "Early commercial",
+   "description": "AI first-pass patent freedom-to-operate analysis with claim charts, in minutes at a fixed price. Nobody Studios company.",
+   "url": "https://www.evalify.ai/",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data",
+    "Government, legal & civic"
+   ],
+   "region_group": "California"
+  },
+  {
+   "rank": 35,
+   "name": "CivicReach",
+   "sector": "GovTech / voice AI for resident services",
+   "region": "Raleigh, NC",
+   "stage": "Seed",
+   "description": "Voice and digital tools that help governments and nonprofits serve residents faster. NC IDEA SEED grant and Tweener Fund backing.",
+   "url": "https://civicreach.ai",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data",
+    "Government, legal & civic"
+   ],
+   "region_group": "North Carolina"
+  },
+  {
+   "rank": 36,
+   "name": "Churnkey",
+   "sector": "SaaS retention",
+   "region": "Charleston, SC",
+   "stage": "Operating company",
+   "description": "Retention software for Stripe businesses: cancel flows and failed-payment recovery.",
+   "url": "https://churnkey.co",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data"
+   ],
+   "region_group": "South Carolina"
+  },
+  {
+   "rank": 37,
+   "name": "Storyverse",
+   "sector": "AI film and TV studio",
+   "region": "Los Angeles, CA",
+   "stage": "Early",
+   "description": "AI-native film and TV studio that launched its slate and a five-day script-to-screen pipeline at Cannes in May 2026.",
+   "url": "https://www.storyverseai.art",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data",
+    "Media, creators & entertainment"
+   ],
+   "region_group": "California"
+  },
+  {
+   "rank": 38,
+   "name": "LootHoundz",
+   "sector": "Collectibles ID & marketplace",
+   "region": "California, US",
+   "stage": "Concept",
+   "description": "Concept app to identify and value coins, cards and collectibles, with a trading marketplace. Nobody Studios concept, not yet launched.",
+   "url": "https://nobodystudios.com/100-compelling-companies-in-5-years/",
+   "origin": "concept",
+   "origin_label": "Concept",
+   "sector_groups": [
+    "Consumer, food & lifestyle",
+    "Commerce & supply chain"
+   ],
+   "region_group": "California"
+  },
+  {
+   "rank": 39,
+   "name": "BMI OrganBank",
+   "sector": "Medtech / organ preservation",
+   "region": "Winston-Salem, NC",
+   "stage": "Early",
+   "description": "Room-temperature perfusion system to preserve and transport donor kidneys. FDA Breakthrough Device status; $3.5M NIH SBIR grant.",
+   "url": "https://bmiorganbank.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Health & life sciences"
+   ],
+   "region_group": "North Carolina"
+  },
+  {
+   "rank": 40,
+   "name": "Reactor",
+   "sector": "AI / real-time world models",
+   "region": "San Francisco, CA",
+   "stage": "Series A",
+   "description": "Developer platform for real-time generative video and world models, from ex-Apple Vision Pro engineers. $59M raise led by Lightspeed (2026).",
+   "url": "https://www.reactor.inc",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data"
+   ],
+   "region_group": "California"
+  },
+  {
+   "rank": 41,
+   "name": "CreatorDB",
+   "sector": "Creator economy / data API",
+   "region": "Los Angeles, CA",
+   "stage": "Series A",
+   "description": "Data API tracking 30M+ YouTube, Instagram and TikTok creators so brands can find the right partners. $4.7M Series A (Sep 2025).",
+   "url": "https://www.creatordb.app",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data",
+    "Media, creators & entertainment"
+   ],
+   "region_group": "California"
+  },
+  {
+   "rank": 42,
+   "name": "Prehab Life",
+   "sector": "Mental health / addiction prevention app",
+   "region": "United States",
+   "stage": "Early",
+   "description": "Preventive mental-health app that supports people at risk of addiction before they need treatment.",
+   "url": "https://nobodystudios.com/100-compelling-companies-in-5-years/",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Health & life sciences"
+   ],
+   "region_group": "Other United States"
+  },
+  {
+   "rank": 43,
+   "name": "Branch Energy",
+   "sector": "Energy / commercial battery storage",
+   "region": "Houston, TX",
+   "stage": "Series B",
+   "description": "Installs and runs batteries at commercial sites, paying hosts and adding backup power. Raised $33M in Sep 2026.",
+   "url": "https://www.branchenergy.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Energy, climate & sustainability"
+   ],
+   "region_group": "Texas"
+  },
+  {
+   "rank": 44,
+   "name": "Cloneable",
+   "sector": "AI automation for infrastructure operations",
+   "region": "Raleigh, NC",
+   "stage": "Seed",
+   "description": "AI agents that capture expert know-how for utility and infrastructure field and back-office work. $4.6M seed led by Congruent in 2026.",
+   "url": "https://www.cloneable.ai",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data"
+   ],
+   "region_group": "North Carolina"
+  },
+  {
+   "rank": 45,
+   "name": "BeamRail",
+   "sector": "GovTech / AI for law enforcement",
+   "region": "Cary, NC",
+   "stage": "Seed",
+   "description": "AI that unifies police data systems and helps with case search and warrant drafting. Founded by a former Cary officer; $700K pre-seed in 2026.",
+   "url": "https://beamrail.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data",
+    "Government, legal & civic"
+   ],
+   "region_group": "North Carolina"
+  },
+  {
+   "rank": 46,
+   "name": "Perry Weather",
+   "sector": "Weather safety SaaS",
+   "region": "Dallas, TX",
+   "stage": "Series C",
+   "description": "On-site weather stations and lightning alerts for schools, sports and work sites. $110M Series C.",
+   "url": "https://www.perryweather.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data"
+   ],
+   "region_group": "Texas"
+  },
+  {
+   "rank": 47,
+   "name": "Citrus Oncology",
+   "sector": "Healthtech / AI virtual oncology clinic",
+   "region": "North Carolina, US",
+   "stage": "Seed",
+   "description": "AI-enabled virtual clinic that connects cancer patients with sub-specialists to manage treatment side effects. NC IDEA SEED grant (Fall 2025).",
+   "url": "https://citrusoncology.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data",
+    "Health & life sciences"
+   ],
+   "region_group": "North Carolina"
+  },
+  {
+   "rank": 48,
+   "name": "Halcyon",
+   "sector": "Climate / energy AI platform",
+   "region": "United States",
+   "stage": "Series A",
+   "description": "AI search and data platform for energy-industry filings and records. $21M Series A led by Energize Capital (Mar 2026).",
+   "url": "https://halcyon.io",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data",
+    "Energy, climate & sustainability"
+   ],
+   "region_group": "Other United States"
+  },
+  {
+   "rank": 49,
+   "name": "Udio",
+   "sector": "AI music generation",
+   "region": "New York, NY",
+   "stage": "Growth",
+   "description": "AI music generator for creating and sharing songs from text prompts.",
+   "url": "https://www.udio.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data",
+    "Media, creators & entertainment"
+   ],
+   "region_group": "New York"
+  },
+  {
+   "rank": 50,
+   "name": "Webdelics",
+   "sector": "Media / Ed (plant medicine education)",
+   "region": "California, US",
+   "stage": "Launched",
+   "description": "Science-backed education and community about psychedelics and plant medicine. Nobody Studios company, launched in Jan 2023.",
+   "url": "https://www.webdelics.com/",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Media, creators & entertainment",
+    "Education & talent"
+   ],
+   "region_group": "California"
+  },
+  {
+   "rank": 51,
+   "name": "Flawless AI",
+   "sector": "Entertainment-Tech / AI dubbing",
+   "region": "Los Angeles / London dual",
+   "stage": "Growth",
+   "description": "AI tools for film and TV that re-sync lip movements for dubbing and dialogue changes. Growth-stage, LA and London.",
+   "url": "https://www.flawlessai.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data",
+    "Media, creators & entertainment"
+   ],
+   "region_group": "California"
+  },
+  {
+   "rank": 52,
+   "name": "Passes",
+   "sector": "Creator monetization",
+   "region": "West Hollywood, CA",
+   "stage": "Growth",
+   "description": "Creator platform for paid content and direct relationships with fans.",
+   "url": "https://www.passes.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Media, creators & entertainment"
+   ],
+   "region_group": "California"
+  },
+  {
+   "rank": 53,
+   "name": "Firehawk Defense (formerly Firehawk Aerospace)",
+   "sector": "Aerospace / Defense / Industrials",
+   "region": "Dallas / Addison, DFW, TX",
+   "stage": "Series D",
+   "description": "Rocket motor and propellant maker for defense, using new manufacturing methods. Renamed Firehawk Defense in 2026.",
+   "url": "https://www.firehawkdefense.com/",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Robotics, hardware & industry"
+   ],
+   "region_group": "Texas"
+  },
+  {
+   "rank": 54,
+   "name": "Neros Technologies",
+   "sector": "Small military drones",
+   "region": "Torrance, CA",
+   "stage": "Series B",
+   "description": "High-volume maker of small military drones, aiming at one million units a year by 2028.",
+   "url": "https://www.neros.tech",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Robotics, hardware & industry"
+   ],
+   "region_group": "California"
+  },
+  {
+   "rank": 55,
+   "name": "Aether AI",
+   "sector": "Frontier AI / causal world models",
+   "region": "San Diego, CA",
+   "stage": "Seed",
+   "description": "Builds causal world models so robots and AI can reason about cause and effect. $20M seed (Jun 2026); founded by a UC San Diego professor.",
+   "url": "https://aetherlabs.ai",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data"
+   ],
+   "region_group": "California"
+  },
+  {
+   "rank": 56,
+   "name": "AxNano",
+   "sector": "Cleantech / PFAS destruction",
+   "region": "Greensboro, NC",
+   "stage": "Growth-early",
+   "description": "Technology to destroy PFAS 'forever chemicals' and other hard-to-treat wastes. EPA SBIR Phase II awardee with commercial deployments.",
+   "url": "https://axnano.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Energy, climate & sustainability"
+   ],
+   "region_group": "North Carolina"
+  },
+  {
+   "rank": 57,
+   "name": "Hook Security",
+   "sector": "Security awareness training",
+   "region": "Greenville, SC",
+   "stage": "Growth",
+   "description": "Managed security awareness training and phishing simulations for MSPs and small businesses.",
+   "url": "https://www.hooksecurity.co",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data"
+   ],
+   "region_group": "South Carolina"
+  },
+  {
+   "rank": 58,
+   "name": "Bubble Paper",
+   "sector": "Sustainable packaging",
+   "region": "Williamston, SC",
+   "stage": "Early growth",
+   "description": "Recyclable, U.S.-made paper packaging that replaces plastic bubble mailers.",
+   "url": "https://bubblepaper.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Energy, climate & sustainability",
+    "Commerce & supply chain"
+   ],
+   "region_group": "South Carolina"
+  },
+  {
+   "rank": 59,
+   "name": "NeuroQuest",
+   "sector": "Diagnostics / Alzheimer's blood screening",
+   "region": "Charleston, SC",
+   "stage": "Early",
+   "description": "NeuroScreen, a blood test aimed at spotting Alzheimer's risk before symptoms appear. SC Launch-backed; clinical validation planned for 2026.",
+   "url": "https://www.neuroquest-usa.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Health & life sciences"
+   ],
+   "region_group": "South Carolina"
+  },
+  {
+   "rank": 60,
+   "name": "That Pitch",
+   "sector": "Music tech / sync licensing",
+   "region": "Charlotte, NC",
+   "stage": "Seed",
+   "description": "Sync-licensing platform that pitches independent vocal artists' tracks to 100+ music libraries. NC IDEA SEED grant (Spring 2025).",
+   "url": "https://thatpitch.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Media, creators & entertainment"
+   ],
+   "region_group": "North Carolina"
+  },
+  {
+   "rank": 61,
+   "name": "Sleep Glide",
+   "sector": "HealthTech / Sleep",
+   "region": "California, US",
+   "stage": "Pilot",
+   "description": "Predictive sleep-timing product developed with UCLA sleep researcher Dr. Gina Poe. Nobody Studios pilot; product details not public.",
+   "url": "https://sleepglide.com/",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Health & life sciences"
+   ],
+   "region_group": "California"
+  },
+  {
+   "rank": 62,
+   "name": "Craftwork",
+   "sector": "PropTech / digital residential painting",
+   "region": "Charlotte, NC",
+   "stage": "Growth-early",
+   "description": "Tech-enabled home painting service with instant online quotes, in Charlotte and Raleigh. Raised over $17M, including a Slow Ventures-led Series A.",
+   "url": "https://craftwork.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Real estate & construction"
+   ],
+   "region_group": "North Carolina"
+  },
+  {
+   "rank": 63,
+   "name": "SafeMedWaste",
+   "sector": "Medtech / on-site controlled-substance destruction",
+   "region": "Johns Island, SC",
+   "stage": "Early",
+   "description": "On-site destruction of controlled-substance drug waste for clinics and pharmacies. SC Launch invested $400K in Apr 2026.",
+   "url": "https://safemedwaste.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Health & life sciences"
+   ],
+   "region_group": "South Carolina"
+  },
+  {
+   "rank": 64,
+   "name": "SiteLabs",
+   "sector": "Healthtech / pharmacy clinical research hubs",
+   "region": "Clemson / Seneca, SC",
+   "stage": "Seed",
+   "description": "Turns community pharmacies into clinical research sites to reach rural patients. $2M seed led by Boomerang Ventures in 2025.",
+   "url": "https://www.sitelabs.co",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Health & life sciences"
+   ],
+   "region_group": "South Carolina"
+  },
+  {
+   "rank": 65,
+   "name": "Pixlmob",
+   "sector": "Real estate media editing marketplace",
+   "region": "Greenville, SC",
+   "stage": "Early",
+   "description": "Marketplace matching real estate photographers with verified photo and video editors. SC Launch and Founderville backed.",
+   "url": "https://pixlmob.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Media, creators & entertainment",
+    "Real estate & construction",
+    "Commerce & supply chain"
+   ],
+   "region_group": "South Carolina"
+  },
+  {
+   "rank": 66,
+   "name": "Joyntly",
+   "sector": "HR tech / manager development software",
+   "region": "Charlotte, NC",
+   "stage": "Seed",
+   "description": "Personalized skills training that turns new managers into capable leaders. Spring 2026 NC IDEA SEED grant.",
+   "url": "https://joyntly.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data",
+    "Education & talent"
+   ],
+   "region_group": "North Carolina"
+  },
+  {
+   "rank": 67,
+   "name": "Theralinq",
+   "sector": "Healthtech / pediatric therapy home exercises",
+   "region": "Raleigh, NC",
+   "stage": "Seed",
+   "description": "App connecting pediatric therapists and families with validated home exercises between sessions. Fall 2025 NC IDEA SEED grant.",
+   "url": "https://theralinq.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Health & life sciences"
+   ],
+   "region_group": "North Carolina"
+  },
+  {
+   "rank": 68,
+   "name": "Triplemoon",
+   "sector": "Pediatric behavioral health",
+   "region": "Dallas, TX",
+   "stage": "Seed",
+   "description": "Virtual behavioral health for kids, delivered through pediatricians. $4M seed in 2025.",
+   "url": "https://triplemoon.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Health & life sciences"
+   ],
+   "region_group": "Texas"
+  },
+  {
+   "rank": 69,
+   "name": "Thrive Data",
+   "sector": "Legal tech / AI medical record review",
+   "region": "Charleston, SC",
+   "stage": "Seed",
+   "description": "AI that reads medical records for personal-injury lawyers and builds cited care timelines. DIG SOUTH Wild Pitch winner (2025).",
+   "url": "https://www.thrivedata.ai",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data",
+    "Health & life sciences",
+    "Government, legal & civic"
+   ],
+   "region_group": "South Carolina"
+  },
+  {
+   "rank": 70,
+   "name": "Espionage.biz",
+   "sector": "Market Intel / Competitive Intelligence",
+   "region": "California, US",
+   "stage": "Early",
+   "description": "Turns a company or person's name into a sourced intelligence brief from public records. Nobody Studios company.",
+   "url": "https://espionage.biz/",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data"
+   ],
+   "region_group": "California"
+  },
+  {
+   "rank": 71,
+   "name": "Frenos",
+   "sector": "Cybersecurity / OT simulated penetration",
+   "region": "Charlotte, NC",
+   "stage": "Seed",
+   "description": "Simulated penetration testing for industrial (OT) networks using a digital twin, so plants test security without risk. $6.4M raised to date.",
+   "url": "https://frenos.io",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data"
+   ],
+   "region_group": "North Carolina"
+  },
+  {
+   "rank": 72,
+   "name": "ThreatCaptain",
+   "sector": "Cybersecurity / MSP cyber risk platform",
+   "region": "Greenville, SC",
+   "stage": "Early",
+   "description": "Helps managed IT providers (MSPs) show cyber risk in dollar terms to sell security. SC Launch $250K investment and SCRA grant.",
+   "url": "https://threatcaptain.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data"
+   ],
+   "region_group": "South Carolina"
+  },
+  {
+   "rank": 73,
+   "name": "Blacksmith",
+   "sector": "DevTools / CI for GitHub Actions",
+   "region": "San Francisco, CA",
+   "stage": "Series A",
+   "description": "Runs GitHub Actions on bare-metal CPUs for roughly 2x faster, cheaper builds. $10M Series A led by GV.",
+   "url": "https://www.blacksmith.sh",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data"
+   ],
+   "region_group": "California"
+  },
+  {
+   "rank": 74,
+   "name": "Fazeshift",
+   "sector": "Fintech / AI accounts receivable",
+   "region": "San Francisco, CA",
+   "stage": "Series A",
+   "description": "AI agents that automate accounts receivable, from invoicing and collections to cash matching. $17M Series A led by F-Prime (May 2026).",
+   "url": "https://www.fazeshift.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data",
+    "Fintech"
+   ],
+   "region_group": "California"
+  },
+  {
+   "rank": 75,
+   "name": "Cat-GPT",
+   "sector": "Consumer AI / Media",
+   "region": "California, US",
+   "stage": "Launched",
+   "description": "Sassy AI cat chatbot from Nobody Studios that drew close to 1M users within months of its 2023 launch.",
+   "url": "https://cat-gpt.com/",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data",
+    "Consumer, food & lifestyle",
+    "Media, creators & entertainment"
+   ],
+   "region_group": "California"
+  },
+  {
+   "rank": 76,
+   "name": "Nonnanest",
+   "sector": "Baby wellness / contactless temperature monitor",
+   "region": "Charleston, SC",
+   "stage": "Seed",
+   "description": "SightAware: an offline, contactless baby monitor that reads skin temperature with no app or subscription. Patent pending; seed round open.",
+   "url": "https://nonnanest.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Health & life sciences",
+    "Consumer, food & lifestyle"
+   ],
+   "region_group": "South Carolina"
+  },
+  {
+   "rank": 77,
+   "name": "OYE",
+   "sector": "Bilingual wellness app",
+   "region": "United States",
+   "stage": "Early",
+   "description": "Bilingual Spanish-English creative-wellness app co-founded by J Balvin; launched in 2022 after a $4.1M pre-seed backed by Expa and others.",
+   "url": "https://techcrunch.com/2022/09/22/jbalvin-enters-the-digital-wellness-space-with-the-launch-of-a-bilingual-mental-health-app/",
+   "origin": "former",
+   "origin_label": "Former company",
+   "sector_groups": [
+    "Health & life sciences",
+    "Consumer, food & lifestyle"
+   ],
+   "region_group": "Other United States"
+  },
+  {
+   "rank": 78,
+   "name": "Ovationz",
+   "sector": "Marketplace / Media",
+   "region": "California, US",
+   "stage": "Early",
+   "description": "Marketplace for booking well-known speakers and talent for short virtual appearances. Nobody Studios company.",
+   "url": "https://ovationz.com/",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Media, creators & entertainment",
+    "Commerce & supply chain"
+   ],
+   "region_group": "California"
+  },
+  {
+   "rank": 79,
+   "name": "Parentipity",
+   "sector": "Creator Economy / Community (+ AI Co-Parent)",
+   "region": "California, US",
+   "stage": "Early",
+   "description": "Parent creator community that pays parents to share content, with an AI co-parent beta. A Nobody Studios company.",
+   "url": "https://parentipity.com/",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data",
+    "Media, creators & entertainment"
+   ],
+   "region_group": "California"
+  },
+  {
+   "rank": 80,
+   "name": "Protect3D",
+   "sector": "Medtech / 3D-printed custom orthoses",
+   "region": "Durham, NC",
+   "stage": "Early",
+   "description": "Custom 3D-printed braces, orthotics and face guards for athletes and patients. About $2.95M raised; $1.3M DoD SBIR contract.",
+   "url": "https://protect3d.io",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Robotics, hardware & industry",
+    "Health & life sciences"
+   ],
+   "region_group": "North Carolina"
+  },
+  {
+   "rank": 81,
+   "name": "Voliro",
+   "sector": "Aerial Robotics / Industrial Inspection",
+   "region": "Zurich, CH",
+   "stage": "Series A",
+   "description": "Drones that touch structures for non-destructive inspection of wind turbines, tanks and plants. $12M Series A in 2024.",
+   "url": "https://voliro.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Robotics, hardware & industry"
+   ],
+   "region_group": "Europe"
+  },
+  {
+   "rank": 82,
+   "name": "OurHomeowners",
+   "sector": "HOA advocacy platform",
+   "region": "California, US",
+   "stage": "Early",
+   "description": "HOA advocacy platform: free community plus premium legal help. Nobody Studios company.",
+   "url": "https://ourhomeowners.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Real estate & construction"
+   ],
+   "region_group": "California"
+  },
+  {
+   "rank": 83,
+   "name": "survivalcircles",
+   "sector": "Community resilience",
+   "region": "",
+   "stage": "Concept",
+   "description": "Archived TechVest concept for community resilience and mutual-aid circles. Not an operating company; listed for its idea value.",
+   "url": "",
+   "origin": "concept",
+   "origin_label": "Concept",
+   "sector_groups": [
+    "Government, legal & civic"
+   ],
+   "region_group": "Not location-specific"
+  },
+  {
+   "rank": 84,
+   "name": "Qashier",
+   "sector": "Merchant SaaS / Payments",
+   "region": "Singapore",
+   "stage": "Series A+",
+   "description": "Point-of-sale, payments and loyalty for small merchants with an AI 'general manager'. $6.1M Series A+ in 2026.",
+   "url": "https://qashier.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data",
+    "Fintech",
+    "Commerce & supply chain"
+   ],
+   "region_group": "Asia"
+  },
+  {
+   "rank": 85,
+   "name": "Higharc",
+   "sector": "PropTech / AI for homebuilders",
+   "region": "Durham, NC",
+   "stage": "Growth-early",
+   "description": "AI platform for homebuilders to design homes, configure plans and sell online. Established Triangle builder-tech company.",
+   "url": "https://higharc.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data",
+    "Real estate & construction"
+   ],
+   "region_group": "North Carolina"
+  },
+  {
+   "rank": 86,
+   "name": "Cervu Health",
+   "sector": "Women's health / pelvic health after cancer",
+   "region": "Cary, NC",
+   "stage": "Seed",
+   "description": "At-home pelvic health system for women recovering from cancer treatment. Fall 2025 NC IDEA SEED grant.",
+   "url": "https://cervuhealth.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Health & life sciences"
+   ],
+   "region_group": "North Carolina"
+  },
+  {
+   "rank": 87,
+   "name": "Case Status",
+   "sector": "Legal client communication",
+   "region": "North Charleston, SC",
+   "stage": "Growth",
+   "description": "Client communication portal and app for law firms. SCRA Company of the Year 2025.",
+   "url": "https://www.casestatus.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Government, legal & civic"
+   ],
+   "region_group": "South Carolina"
+  },
+  {
+   "rank": 88,
+   "name": "Osteal Therapeutics",
+   "sector": "Biotech / joint infection therapy",
+   "region": "Dallas, TX",
+   "stage": "Late clinical",
+   "description": "Drug-device treatment for infected joint replacements (VT-X7). About $133M raised, including a Zimmer Biomet-led Series D.",
+   "url": "https://www.ostealtx.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Health & life sciences"
+   ],
+   "region_group": "Texas"
+  },
+  {
+   "rank": 89,
+   "name": "DataBahn",
+   "sector": "Software / AI Data Infra",
+   "region": "Dallas, DFW, TX",
+   "stage": "Series B",
+   "description": "AI data pipeline platform that routes and trims security and observability data. $40M Series B led by Insight in Aug 2026.",
+   "url": "https://databahn.ai",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data"
+   ],
+   "region_group": "Texas"
+  },
+  {
+   "rank": 90,
+   "name": "enspired",
+   "sector": "Energy Trading / AI Flexibility",
+   "region": "Vienna, AT",
+   "stage": "Series B",
+   "description": "AI trading software that optimizes battery storage in power markets. EUR 25.5M Series B in 2024.",
+   "url": "https://www.enspired-trading.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data",
+    "Fintech",
+    "Energy, climate & sustainability"
+   ],
+   "region_group": "Europe"
+  },
+  {
+   "rank": 91,
+   "name": "Nominal",
+   "sector": "Software / Analytics / Hardware Test",
+   "region": "Austin, TX",
+   "stage": "Series B",
+   "description": "Software to run hardware tests and analyze engineering data for aerospace and defense. $80M Series B in Mar 2026.",
+   "url": "https://nominal.io",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data",
+    "Robotics, hardware & industry"
+   ],
+   "region_group": "Texas"
+  },
+  {
+   "rank": 92,
+   "name": "Matcha Nude",
+   "sector": "Matcha brand",
+   "region": "Arden, NC",
+   "stage": "Operating company",
+   "description": "Organic Japanese matcha from a women-owned North Carolina small business; NC IDEA MICRO grantee.",
+   "url": "https://matchanude.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Consumer, food & lifestyle"
+   ],
+   "region_group": "North Carolina"
+  },
+  {
+   "rank": 93,
+   "name": "FERNRIDE",
+   "sector": "Autonomy / Logistics Robotics",
+   "region": "Munich, DE",
+   "stage": "Series A",
+   "description": "Autonomous yard trucks for container terminals and logistics hubs. Series A extended; about EUR 75M raised in total.",
+   "url": "https://www.fernride.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Robotics, hardware & industry",
+    "Commerce & supply chain"
+   ],
+   "region_group": "Europe"
+  },
+  {
+   "rank": 94,
+   "name": "Augmentus",
+   "sector": "Robotics software",
+   "region": "Singapore",
+   "stage": "Series A / growth",
+   "description": "Lets factories program robots by describing tasks, with no coding, for high-mix manufacturing. Singapore Series A company.",
+   "url": "https://www.augmentus.tech",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data",
+    "Robotics, hardware & industry"
+   ],
+   "region_group": "Asia"
+  },
+  {
+   "rank": 95,
+   "name": "Zodl",
+   "sector": "Private crypto wallet",
+   "region": "Dallas, TX",
+   "stage": "Seed",
+   "description": "Zcash-powered private mobile wallet. $25M seed in Mar 2026.",
+   "url": "https://zodl.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Fintech"
+   ],
+   "region_group": "Texas"
+  },
+  {
+   "rank": 96,
+   "name": "The Adjacent Possible",
+   "sector": "IP / Open Innovation Studio",
+   "region": "California, US",
+   "stage": "Studio company",
+   "description": "Open-innovation studio that turns insights into new IP, products and ventures; co-builds Evalify. Nobody Studios company.",
+   "url": "https://adjacentpossible.studio/",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "Government, legal & civic",
+    "Ventures & innovation"
+   ],
+   "region_group": "California"
+  },
+  {
+   "rank": 97,
+   "name": "ideaccel.com",
+   "sector": "Startup acceleration",
+   "region": "",
+   "stage": "Concept",
+   "description": "Archived TechVest concept for startup acceleration. Not an operating company; listed for its idea value.",
+   "url": "",
+   "origin": "concept",
+   "origin_label": "Concept",
+   "sector_groups": [
+    "Ventures & innovation"
+   ],
+   "region_group": "Not location-specific"
+  },
+  {
+   "rank": 98,
+   "name": "Uptiq",
+   "sector": "Fintech / AI Infra",
+   "region": "McKinney, DFW, TX",
+   "stage": "Series B",
+   "description": "AI platform for banks and credit unions to deploy lending and banking agents. $25M Series B in Feb 2026.",
+   "url": "https://uptiq.ai",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data",
+    "Fintech"
+   ],
+   "region_group": "Texas"
+  },
+  {
+   "rank": 99,
+   "name": "Prewave",
+   "sector": "Supply Chain Risk / ESG AI",
+   "region": "Vienna, AT",
+   "stage": "Series B",
+   "description": "AI that monitors suppliers for risk and disruption across global supply chains. About EUR 63M Series B in 2024.",
+   "url": "https://www.prewave.com",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data",
+    "Commerce & supply chain"
+   ],
+   "region_group": "Europe"
+  },
+  {
+   "rank": 100,
+   "name": "Unique",
+   "sector": "Fintech Infra / Agentic AI",
+   "region": "Zurich, CH",
+   "stage": "Series A",
+   "description": "Secure enterprise AI agents for banks and financial institutions. $30M Series A in 2025.",
+   "url": "https://www.unique.ai",
+   "origin": "company",
+   "origin_label": "",
+   "sector_groups": [
+    "AI, software & data",
+    "Fintech"
+   ],
+   "region_group": "Europe"
+  }
+ ]
+}
