@@ -39,7 +39,7 @@
 .im-top-callout a:link,.im-top-callout a:visited,.im-top-intro a:link,.im-top-intro a:visited,#ideabase-top h2 a:link,#ideabase-top h2 a:visited{color:#14500f;font-size:inherit;text-decoration:underline}
 /* v6.0 2026-11-01: Top 100 page, ideaBase Top 10 and home callout - TVV palette (red, shining gold, black) */
 .im-sr{position:absolute!important;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
-#top-ideas.im-t100{width:916px;margin:16px auto 34px auto;font-family:Arial,Helvetica,sans-serif;color:#111}
+#top-ideas.im-t100{width:auto;margin:8px 0 28px 0;font-family:Arial,Helvetica,sans-serif;color:#111}
 .im-t100-h{color:#111;text-align:center;font-family:'Times New Roman',Times,serif;font-size:34px;margin:0 0 4px 0;font-weight:bold}
 .im-t100-h span{font-style:italic;font-weight:normal;color:#b8141f}
 .im-t100-intro{text-align:center;color:#333;margin:0 0 6px 0;font-size:14px;line-height:1.45;padding:0 60px}
@@ -68,7 +68,7 @@
 .im-t100-empty{text-align:center;padding:16px;font-size:14px}
 .im-t100-note{text-align:center;font-size:11.5px;color:#666;margin:14px 0 0 0}
 #top-ideas .im-t100-intro a:link,#top-ideas .im-t100-intro a:visited{color:#b8141f;font-size:inherit}
-#ideabase-top.im-t10{width:916px;margin:20px auto 10px auto;font-family:Arial,Helvetica,sans-serif}
+#ideabase-top.im-t10{width:auto;margin:16px 0 10px 0;font-family:Arial,Helvetica,sans-serif}
 .im-t10-h{color:#111;text-align:center;margin:0 0 2px 0;font-size:22px}
 #ideabase-top .im-t10-h a:link,#ideabase-top .im-t10-h a:visited{color:#b8141f;font-size:inherit;text-decoration:underline}
 .im-t10-card{border:1px solid #e3cd84!important;border-top:3px solid #b8141f!important;color:#111!important}
@@ -91,8 +91,16 @@
   .im-t100-tools[hidden]{display:none!important}
 }
 .im-t100-tools,.im-t100-item,.im-t10-card{text-align:left}
-/* desktop: sit in the legacy 916px content column (left 33px) instead of centring inside <center> */
+/* Titles and lists sit in the shared content column, aligned with the frame. */
 @media (min-width:1001px){
-  #top-ideas.im-t100,#ideabase-top.im-t10,#ideabase-live{width:auto!important;margin-left:0!important;margin-right:0!important;padding-left:33px;text-align:left;box-sizing:border-box}
-  #top-ideas.im-t100>*,#ideabase-top.im-t10>*,#ideabase-live>*{max-width:916px;box-sizing:border-box}
+  #top-ideas.im-t100,#ideabase-top.im-t10,#ideabase-live{width:auto!important;margin-left:0!important;margin-right:0!important;padding-left:0;text-align:left;box-sizing:border-box}
+  #top-ideas.im-t100>*,#ideabase-top.im-t10>*,#ideabase-live>*{max-width:none;box-sizing:border-box}
+}
+/* Keep the left-column mission box a table when the mobile layer flattens other tables. */
+@media screen and (max-width:1000px){
+  .im-mission table{display:table!important;width:100%!important;max-width:100%!important;height:auto!important}
+  .im-mission tbody{display:table-row-group!important}
+  .im-mission tr{display:table-row!important;width:auto!important}
+  .im-mission td,.im-mission th{display:table-cell!important;width:auto!important;max-width:none!important;height:auto!important}
+  .im-navwrap{display:none!important}
 }
