@@ -1,0 +1,81 @@
+/* Shared IdeaMille frame: home-page header, narrow left column, one content column. */
+.im-frame{
+  width:1160px;
+  max-width:calc(100% - 16px);
+  margin:0 0 32px 8px;
+  position:relative;
+}
+.im-sitetitle{
+  text-align:center;
+  margin:6px 0 8px 0;
+  color:#008000;
+  font-family:'Times New Roman',Times,serif;
+  font-size:24px;
+  font-weight:bold;
+  font-style:italic;
+}
+.im-sitetitle span{font-size:18pt}
+.im-banner{
+  background:#9bbb59 url("../assets/images/Banner.png") no-repeat left top;
+  background-size:cover;
+  min-height:200px;
+  border-radius:10px;
+  padding:36px 28px 18px 36px;
+  box-sizing:border-box;
+  color:#111;
+}
+.im-banner p.im-banner-name{
+  margin:0 0 18px 0;
+  color:#fff;
+  font-family:'Times New Roman',Times,serif;
+  font-size:36px;
+  font-weight:bold;
+  font-style:italic;
+  line-height:1.1;
+}
+.im-banner p{margin:0 0 6px 0;font-family:'Times New Roman',Times,serif;font-size:12pt;font-weight:bold}
+.im-banner .im-lead{font-size:24px}
+.im-navwrap{margin:8px 0 0 0}
+.im-navwrap table{margin:0 auto}
+.im-mills{display:block;width:100%;height:auto;margin:10px 0 0 0}
+.im-callout{margin-top:8px}
+.im-lower{
+  display:grid;
+  grid-template-columns:188px minmax(0,1fr);
+  gap:16px;
+  align-items:start;
+  margin-top:12px;
+}
+.im-rail{width:188px}
+.im-arrow{display:block;width:64px;height:auto;margin:2px 0 10px 6px}
+.im-scale{display:block;width:174px;max-width:100%;height:auto;margin-top:8px}
+.im-mission table{width:100%!important;height:auto!important}
+.im-mission tr,.im-mission td,.im-mission th{height:auto!important}
+.im-mission img[src*="clearpixel"]{display:none!important}
+.im-main{min-width:0}
+.im-main table{max-width:100%;height:auto!important}
+.im-main tr,.im-main td,.im-main th{height:auto!important}
+.im-main img[src*="clearpixel"],.im-main img[src*="spacer.gif"],.im-main img[src*="spacer_"]{display:none!important}
+.im-main img{max-width:100%;height:auto!important}
+.im-ideas-list{max-width:260px;margin-top:16px}
+.im-ideas-head{background:#008000;color:#fff;text-align:center;padding:6px 8px 8px 8px}
+.im-ideas-head p{margin:0;color:#fff;font-size:16px;font-weight:bold;text-align:center}
+.im-page-title{
+  margin:4px 0 12px 0;
+  text-align:center;
+  color:#008000;
+  font-family:'Times New Roman',Times,serif;
+  font-size:24px;
+}
+@media (max-width:1000px){
+  .im-frame{width:auto;max-width:none;margin:0;padding:0 0 24px 0}
+  .im-banner{min-height:0;padding:18px 14px 12px 14px;border-radius:0}
+  .im-banner-name{font-size:28px}
+  .im-banner .im-lead{font-size:18px}
+  .im-navwrap{display:none}
+  .im-lower{display:block;margin:10px 10px 0 10px}
+  .im-rail{width:auto;margin:0 0 12px 0}
+  .im-arrow{width:48px;margin:0 0 8px 0}
+  .im-scale{width:140px}
+  .im-main{padding:0}
+}
